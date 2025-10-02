@@ -1,0 +1,49 @@
+.container {
+  padding: 30px;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item button {
+  background-color: #ff385c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.total {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  color: #333;
+}
+
+.finalizar {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 10px;
+}

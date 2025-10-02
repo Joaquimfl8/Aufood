@@ -1,0 +1,8 @@
+.produtos_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}

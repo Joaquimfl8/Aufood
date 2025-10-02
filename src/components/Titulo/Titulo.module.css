@@ -1,0 +1,11 @@
+.titulo_container {
+  text-align: center;
+  margin: 24px 0;
+}
+
+.titulo_texto {
+  font-size: 2rem;
+  color: #ff385c;
+  font-weight: bold;
+  font-family: 'Segoe UI', sans-serif;
+}
